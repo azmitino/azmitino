@@ -12,4 +12,4 @@
   </a>
 </p>                                                                                                        
  <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
-![azmitino](https://github-readme-stats.vercel.app/api/top-langs/?username=azmitino8&show_icons=true&theme=tokyonight) 
+ <img alt="server-count" src="https://github-readme-stats.vercel.app/api?username=fastering18&show_icons=true&theme=tokyonight" /> 
